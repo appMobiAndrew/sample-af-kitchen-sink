@@ -1,9 +1,9 @@
 {
 	"reponame":"sample-af-kitchen-sink",
-	"title":"App Framework Kitchen Sink",
-	"tooltip":"[App Designer Ready] A simple app that shows various App Framework UI components that can be used",
+	"title":"App Designer Sample",
+	"tooltip":"[App Designer Ready] A simple app that shows the various controls available in App Framework UI",
 	"description":"[App Designer Ready] A simple app that shows various App Framework UI components that can be used",
-	"articleurl":"",
+	"articleurl":"http://software.intel.com/en-us/articles/intel-xdk-app-designer-sample",
     	"screenshotUrl":"",
     	"iconUrl":"",
 	"highlights":["App Designer", "App Framework"],
